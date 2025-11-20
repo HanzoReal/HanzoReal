@@ -55,9 +55,7 @@ Focused on efficiency, intelligent systems, and scalable engineering.
 
 ## **Projects**
 
----
 *Some projects showcased below are private due to client confidentiality or upcoming product releases. Public repositories represent only a portion of my complete work.*
----
 
 ### **In Development**
 
