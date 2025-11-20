@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BANNER_URL_HERE" width="100%" />
+  <img src="https://raw.githubusercontent.com/HanzoReal/HanzoReal/refs/heads/main/Assets/Banner.png" width="100%" />
 </div>
 
 ---
@@ -9,9 +9,6 @@
 I build modern full-stack applications, automation pipelines, browser extensions, and AI-integrated tools.  
 Focused on efficiency, intelligent systems, and scalable engineering.
 
----
-
-## **Skills**
 ---
 
 ### **Languages**
@@ -57,6 +54,9 @@ Focused on efficiency, intelligent systems, and scalable engineering.
 ---
 
 ## **Projects**
+
+---
+*Some projects showcased below are private due to client confidentiality or upcoming product releases. Public repositories represent only a portion of my complete work.*
 ---
 
 ### **In Development**
