@@ -6,8 +6,8 @@
 
 ### **Full Stack Web Developer | Automation & Scraping Specialist**
 
-I build high-performance web platforms, automation pipelines, browser extensions, and AI-powered tooling.  
-My focus is on intelligent systems, efficient data extraction, and scalable modern web applications.
+I build modern full-stack applications, automation pipelines, browser extensions, and AI-integrated tools.  
+Focused on efficiency, intelligent systems, and scalable engineering.
 
 ---
 
@@ -15,118 +15,129 @@ My focus is on intelligent systems, efficient data extraction, and scalable mode
 ---
 
 ### **Languages**
-HTML5 • CSS3 • JavaScript • Node.js • Python
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### **Frameworks & Libraries**
-React • Next.js • Express.js • TailwindCSS
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ### **DevOps Tools**
-Git • Docker
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### **Databases**
-MySQL • PostgreSQL • MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### **Additional Expertise**
-Cloud deployment • REST APIs • GraphQL APIs  
-AI integrations • Local LLMs (RAG, vector search, semantic filtering)  
-Automation pipelines • Web scraping • DOM manipulation  
-Chrome extension development • Vector database implementation
+### **Other Skills**
+![Cloud](https://img.shields.io/badge/Cloud_Deployment-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-%23007ACC.svg?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Integration-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector_Databases-%23000000.svg?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-%23F4B400.svg?style=for-the-badge&logo=robots&logoColor=black)
+![Scraping](https://img.shields.io/badge/Web_Scraping-%23009639.svg?style=for-the-badge&logo=python&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ---
 
 ## **Projects**
-*(Some projects are private or under development for clients or upcoming launches.)*
-
 ---
 
 ### **In Development**
+
 #### **Meta Ad Library SaaS**
-A professional platform for e-commerce marketers to analyze competitors and optimize ad performance.  
-Key features:
-- Access to a large synchronized ads database  
-- Free media downloads  
-- AI-generated SEO-optimized ad descriptions  
-- Built-in search-by-image  
-- Website traffic analysis  
-- Advanced filtering & ranking
+A full competitive-analysis platform for ecommerce businesses.  
+Features:  
+- Large searchable ad database  
+- Unlimited media downloads  
+- AI-generated SEO-optimized descriptions  
+- Traffic analysis  
+- Search-by-image CV model  
+- Advanced filtering, ranking & insights
 
 ---
 
-#### **AI-Powered Interview Assistant Mobile App**
-A real-time voice-based AI assistant that listens to questions and provides instant, context-aware answers to help users prepare for any interview.
+#### **AI Interview Assistant Mobile App**
+A real-time voice-powered AI that listens to questions and generates instant, accurate answers to help users prepare for interviews.
 
 ---
 
 #### **Digital Products E-Commerce SaaS + CRM**
-A full SaaS system allowing users to:
-- Build customizable storefronts from templates  
-- Add, update, and manage digital products  
-- Handle buyers through a real-time integrated chat  
-- Centralized CRM dashboard for orders, clients, and delivery workflow
+- Template-based website builder  
+- Digital product management  
+- Full CRM dashboard  
+- Real-time chat for store-owner ↔ customer  
+- Automations for delivery & follow-up
 
 ---
 
 ## **Completed Projects**
 
 ### **FocusGuard – Chrome Extension**
-Pomodoro workflow enhancer + intelligent distraction blocker  
-Features:
+Pomodoro + Distraction Blocker  
 - Adjustable focus/break timers  
-- Automatic blocking of distracting websites  
-- Motivational screens & quotes  
+- Intelligent website blocking  
+- Motivational quotes  
 - Daily goals & task tracking  
-- Notifications & sound alerts  
+- Desktop notifications
 
 ---
 
 ### **Amazon Price Monitor – Chrome Extension**
-Automated price-tracking system with:
-- Daily smart randomized checks  
-- Windows desktop notifications  
-- Discord webhooks  
-- Target-price alerts  
-- Full background automation
+- Daily automated price checks  
+- Desktop notifications  
+- Discord webhook alerts  
+- Target-price triggers  
+- Low-resource background runner
 
 ---
 
 ### **AI Reading Companion – Chrome Extension**
-AI-assisted reading toolkit:  
-- **Definition Mode**: Context-aware explanations  
-- **Translation Mode**: Multi-language output with nuance  
-- **Vocabulary Mode**: Synonyms, families, examples, verb forms  
+Three powerful AI modes:  
+- **Definition** → context-aware explanations  
+- **Translation** → accurate meaning-preserving translation  
+- **Vocabulary** → synonyms, families, examples
 
 ---
 
 ### **Digital Marketplace Auto-Filter Extension**
-Given a marketplace link, it scans and filters millions of products using user-defined keywords, returning only relevant items.  
-Auto-buy module currently in development.
+- Scans tens of thousands of products  
+- Filters by user keywords  
+- Displays only relevant items  
+- Auto-buy module in progress
 
 ---
 
-### **Amazon Jobs Auto-Apply SniperBot**
-Automates job searching & applying on Amazon Jobs based on user preferences (location, role type, filters).  
-Fully automated application execution in real-time.
+### **Amazon Jobs Auto-Apply SniperBOT**
+- Select preferences  
+- Auto-finds and auto-applies to jobs  
+- Works for both US & Canada job markets
 
 ---
 
-### **Facebook GraphQL Scraper**
-High-efficiency scraper accessing private GraphQL endpoints to extract:
-- Groups  
-- Pages  
-- Posts  
-- Friends  
-- Public & private datasets (depending on permissions)  
+### **Facebook Private GraphQL Scraper**
+- Scrapes pages, groups, posts, friends  
+- Uses private GraphQL API endpoints  
+- Extremely fast and efficient extraction
 
 ---
 
 ## **Reach Out**
-GitHub: https://github.com/HanzoReal  
-Upwork: https://www.upwork.com/freelancers/~01c97bfcd3de88932f
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanzoReal)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c97bfcd3de88932f)
