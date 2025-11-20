@@ -74,7 +74,7 @@ Features:
 ---
 
 #### **AI Interview Assistant Mobile App**
--A real-time voice-powered AI that listens to questions and generates instant, accurate answers to help users prepare for interviews.
+- A real-time voice-powered AI that listens to questions and generates instant, accurate answers to help users prepare for interviews.
 
 ---
 
