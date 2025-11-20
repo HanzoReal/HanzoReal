@@ -59,6 +59,8 @@ Focused on efficiency, intelligent systems, and scalable engineering.
 
 ### **In Development**
 
+---
+
 #### **Meta Ad Library SaaS**
 A full competitive-analysis platform for ecommerce businesses.  
 Features:  
