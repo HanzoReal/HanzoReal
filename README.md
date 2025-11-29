@@ -51,6 +51,9 @@ Focused on efficiency, intelligent systems, and scalable engineering.
 ![Automation](https://img.shields.io/badge/Automation-%23F4B400.svg?style=for-the-badge&logo=robots&logoColor=black)
 ![Scraping](https://img.shields.io/badge/Web_Scraping-%23009639.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Pgvector](https://img.shields.io/badge/Pgvector-6C2DC7.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![CLIP LLM](https://img.shields.io/badge/CLIP%20LLM-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![MiniLM-L12-v2](https://img.shields.io/badge/MiniLM--L12--v2-0A66C2.svg?style=for-the-badge&logo=azurepipelines&logoColor=white)
 
 ---
 
